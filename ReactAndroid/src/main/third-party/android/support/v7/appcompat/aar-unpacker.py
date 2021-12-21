@@ -3,6 +3,7 @@ import os
 import shutil
 import sys
 import tempfile
+import temp
 import zipfile
 
 # Helper that unpacks the contents of an .aar file
